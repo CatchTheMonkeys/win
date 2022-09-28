@@ -103,6 +103,8 @@ section {
 }
 
 .intro {
+	max-width: 768px;
+    margin: auto;
     background-image: url('pic-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
