@@ -103,7 +103,7 @@ section {
 }
 
 .intro {
-    background-image: url('bg-img.jpg');
+    background-image: url('pic-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
