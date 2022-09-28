@@ -85,7 +85,7 @@ section {
     margin: auto;
     width: 220px;
     padding: 17px 0;
-    background: #079992;
+    background: #4834d4;
 	
     font-family: 'Roboto', sans-serif;
     color: #fff;
@@ -99,7 +99,7 @@ section {
     align-items: center;
     justify-content: center;
 
-    margin-top: 80vh !important;
+    margin-top: 85vh !important;
 }
 
 .intro {
@@ -128,7 +128,7 @@ a span:nth-child(1) {
 	right: 0;
 	width: 100%;
 	height: 3px;
-	background: linear-gradient(to right, #079992, #fff);
+	background: linear-gradient(to right, #4834d4, #fff);
 	animation: animate1 2s linear infinite;
 }
 
@@ -147,7 +147,7 @@ a span:nth-child(2) {
 	right: 0;
 	height: 100%;
 	width: 3px;
-	background: linear-gradient(to bottom, #079992, #fff);
+	background: linear-gradient(to bottom, #4834d4, #fff);
 	animation: animate2 2s linear infinite;
 	animation-delay: 1s;
 }
@@ -166,7 +166,7 @@ a span:nth-child(3) {
 	right: 0;
 	width: 100%;
 	height: 3px;
-	background: linear-gradient(to left, #079992, #fff);
+	background: linear-gradient(to left, #4834d4, #fff);
 	animation: animate3 2s linear infinite;
 }
 
@@ -185,7 +185,7 @@ a span:nth-child(4) {
 	left: 0;
 	height: 100%;
 	width: 3px;
-	background: linear-gradient(to top, #079992, #fff);
+	background: linear-gradient(to top, #4834d4, #fff);
 	animation: animate4 2s linear infinite;
 	animation-delay: 1s;
 }
