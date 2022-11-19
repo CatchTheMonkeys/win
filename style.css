@@ -80,6 +80,16 @@ section {
     margin: 0 auto;
 }
 
+.title {
+  padding-bottom: 20px;
+  color: #fff !important;
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+	text-align: center;
+	margin-top: 5vh !important;
+}
+
 
 .button {
     margin: auto;
